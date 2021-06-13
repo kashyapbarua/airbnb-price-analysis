@@ -3,10 +3,10 @@
 
 # Airbnb Market Insights and Analysis
 
-### Who are Airbnb?
+### Who is Airbnb?
 Airbnb, Inc. is an American company that operates an online marketplace for lodging, primarily homestays for vacation rentals, and tourism activities. Based in San Francisco, California, the platform is accessible via website and mobile app.
 
-### Why this project?
+### Why this data and problem interests me?
 The motivation behind the project is to leverage the open data made available by Airbnb, on one of the most popular data platforms Kaggle, to draw insights from the data and try to answer some of the questions/hypothesis that we formulated at the beginning.
 
 ### What do I want from the data?
