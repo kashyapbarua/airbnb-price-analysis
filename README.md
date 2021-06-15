@@ -24,3 +24,8 @@ There are certain factors that facilitates in the variation of the property pric
 * Some of the columns were cleaned to facilitate function building and seamless analysis process
 * Charts have been plotted at different levels to perform univariate and bivariate analysis between the variables in the dataset
 * Markdown offers the findings and insights present in the notebook, which is further publised [here](https:www.kashyapbarua.com)
+
+### Future scope of work
+In the future, we will find the most significant variables from the dataset and also apply some data cleaning and feature engineering processes to build our predictive models.
+
+We will also try to do a comparative analysis between different models and their performances in terms of predicting prices in both/either one of these cities.
