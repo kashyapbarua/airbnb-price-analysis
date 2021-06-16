@@ -24,7 +24,7 @@ There are certain factors that facilitates in the variation of the property pric
 
 * Some of the columns were cleaned to facilitate function building and seamless analysis process
 * Charts have been plotted at different levels to perform univariate and bivariate analysis between the variables in the dataset
-* Markdown offers the findings and insights present in the notebook, which is further publised [here](https:www.kashyapbarua.com)
+* Markdown offers the findings and insights present in the notebook, which is further publised here [Medium](https://medium.com/@kashyapbarua/comparative-analysis-between-boston-and-seattle-airbnb-prices-c10815af536a)
 
 ### Future scope of work
 In the future, we will find the most significant variables from the dataset and also apply some data cleaning and feature engineering processes to build our predictive models.
