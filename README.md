@@ -17,14 +17,21 @@ The motivation behind the project is to leverage the open data made available by
 * A [juptyer notebook](https://github.com/kashyapbarua/airbnb-price-analysis/blob/main/DataScientist_Project-Airbnb.ipynb) containing the analysis and insights
 * Datasets contained in individual folders [Boston](https://github.com/kashyapbarua/airbnb-price-analysis/tree/main/airbnb_boston), [Seattle](https://github.com/kashyapbarua/airbnb-price-analysis/tree/main/airbnb_seattle)
 * [Readme](https://github.com/kashyapbarua/airbnb-price-analysis/blob/main/README.md) file explaining the project motivation and other contents
-* [Assets] ((https://github.com/kashyapbarua/airbnb-price-analysis/blob/main/assets)) has all the supporting charts from the analysis
+* [Assets](https://github.com/kashyapbarua/airbnb-price-analysis/blob/main/assets) has all the supporting charts from the analysis
+
+### Packages used in the project
+
+`numpy`
+`pandas`
+`seaborn`
+`matplotlib.pyplot`
 
 ### What are the key findings and insights from the analysis?
 There are certain factors that facilitates in the variation of the property prices in the cities of Boston and Seattle. Consumers consider a lot of factors before booking any property for stay and through the data, we find some of the relations and insights to help make informed decisions.
 
 * Some of the columns were cleaned to facilitate function building and seamless analysis process
 * Charts have been plotted at different levels to perform univariate and bivariate analysis between the variables in the dataset
-* Markdown offers the findings and insights present in the notebook, which is further publised [here](https:www.kashyapbarua.com)
+* Markdown offers the findings and insights present in the notebook, which is further publised here [Medium](https://medium.com/@kashyapbarua/comparative-analysis-between-boston-and-seattle-airbnb-prices-c10815af536a)
 
 ### Future scope of work
 In the future, we will find the most significant variables from the dataset and also apply some data cleaning and feature engineering processes to build our predictive models.
