@@ -17,7 +17,7 @@ The motivation behind the project is to leverage the open data made available by
 * A [juptyer notebook](https://github.com/kashyapbarua/airbnb-price-analysis/blob/main/DataScientist_Project-Airbnb.ipynb) containing the analysis and insights
 * Datasets contained in individual folders [Boston](https://github.com/kashyapbarua/airbnb-price-analysis/tree/main/airbnb_boston), [Seattle](https://github.com/kashyapbarua/airbnb-price-analysis/tree/main/airbnb_seattle)
 * [Readme](https://github.com/kashyapbarua/airbnb-price-analysis/blob/main/README.md) file explaining the project motivation and other contents
-* [Assets] ((https://github.com/kashyapbarua/airbnb-price-analysis/blob/main/assets)) has all the supporting charts from the analysis
+* [Assets](https://github.com/kashyapbarua/airbnb-price-analysis/blob/main/assets) has all the supporting charts from the analysis
 
 ### Packages used in the project
 
